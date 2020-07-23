@@ -10,7 +10,7 @@
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2014. 3 ~ 2020. 2 | Department of Mathematics, Software | **Soongsil University** |
-| **Research activities** | 2018. 12 ~ 2019. 6 | Undergraduate Research Students | **Soongsil University Software Engineering Lab** |
+| **Research activities** | 2018. 12 ~ 2019. 6 | Undergraduate Research Students | **Soongsil Univ. Software Engineering Lab** |
 | **External activities** | 2019. 6 ~ 8 | Global Start-up Challenge (Start-up in Australia) | **Soongsil University** |
 | **Research activities** | 2020. 1 ~ 7 | Team leader of Mevia, 6th Open-Lab | **Korea AI Lab** |
 | **:office:Employment** | 2020. 5 ~ | Developer, Validation team | **Intel Korea** |
