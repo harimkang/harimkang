@@ -5,16 +5,14 @@
 
  My major is **mathematics:books:**, and I have been studying **computer science:computer:** since 2018. I have project experience using Python, Java & Android, c++, and Matlab languages. I am very interested in **machine learning**. I am especially interested in computer vision.
 
-### :purple_heart: Experiences
+### :purple_heart: Career
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2014. 3 ~ 2020. 2 | Department of Mathematics, Software | **Soongsil University** |
-| **Education** | 2018.7 ~ 8 | Android app development training and project course completion | **Samsung Multi Campus** |
-| **External activities** | 2018. 7 ~ 8 | Shinhan Card Big Data Summer School | **Shinhan Card** |
 | **Research activities** | 2018. 12 ~ 2019. 6 | Undergraduate Research Students | **Soongsil University Software Engineering Lab** |
 | **External activities** | 2019. 6 ~ 8 | Global Start-up Challenge (Start-up in Australia) | **Soongsil University** |
-| **External activities** | 2020. 1 ~ 7 | Team leader of Mevia, 6th Open-Lab | **Korea AI Lab** |
+| **Research activities** | 2020. 1 ~ 7 | Team leader of Mevia, 6th Open-Lab | **Korea AI Lab** |
 | **:office:Employment** | 2020. 5 ~ | Developer, Validation team | **Intel Korea** |
 
 ### :cyclone: Languages
