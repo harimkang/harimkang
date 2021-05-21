@@ -12,8 +12,8 @@
 | **Research activities** | 2018. 12 ~ 2019. 6 | Undergraduate Research Students | **Soongsil Univ. Software Engineering Lab** |
 | **External activities** | 2019. 6 ~ 8 | Global Start-up Challenge (Start-up in Australia) | **Soongsil University** |
 | **Research activities** | 2020. 1 ~ 7 | Team leader of Mevia, 6th Open-Lab | **Korea AI Lab** |
-| **:office:Employment** | 2020. 5 ~ 2021. 05 | QA, SW Engineer | **Intel Korea** |
-| **External activities** | 2020. 10 ~ 2021. 01 | Google MachineLearning BootCamp | **Google Developers** |
+| **:office:Employment** | 2020. 5 ~ 2021. 5 | QA, SW Engineer | **Intel Korea** |
+| **External activities** | 2020. 10 ~ 2021. 1 | Google MachineLearning BootCamp | **Google Developers** |
 | **:office:Employment** | 2021. 6 ~ | Deeplearning Engineer | **Intel Korea** |
 
 ### :cyclone: Languages
