@@ -12,9 +12,9 @@
 | **Research activities** | 2018. 12 ~ 2019. 6 | Undergraduate Research Students | **Soongsil Univ. Software Engineering Lab** |
 | **External activities** | 2019. 6 ~ 8 | Global Start-up Challenge (Start-up in Australia) | **Soongsil University** |
 | **Research activities** | 2020. 1 ~ 7 | Team leader of Mevia, 6th Open-Lab | **Korea AI Lab** |
-| **:office:Employment** | 2020. 5 ~ | SW Engineer | **Intel Korea** |
+| **:office:Employment** | 2020. 5 ~ 2021. 05 | QA, SW Engineer | **Intel Korea** |
 | **External activities** | 2020. 10 ~ 2021. 01 | Google MachineLearning BootCamp | **Google Developers** |
-| **External activities** | 2021. 04 ~ | Software Maestro 12th | **과학기술정보통신부** |
+| **:office:Employment** | 2021. 6 ~ | Deeplearning Engineer | **Intel Korea** |
 
 ### :cyclone: Languages
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white) ![ANDROID](https://img.shields.io/badge/JAVA%20&%20ANDROID-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=android&logoColor=white)  ![Matlab](https://img.shields.io/badge/Matlab-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0076A8?style=plastic&logo=mathworks&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=kotlin&logoColor=white)
