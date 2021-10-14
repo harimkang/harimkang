@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharimkang)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/harimkang?label=Follow)
 
-:wave: Hello My name is Harim, Deep Learning Research Engineer working at ![Intel](https://img.shields.io/badge/-Intel%20Korea-0071C5?style=flat-square&logo=intel&logoColor=white)
+:wave: Hello My name is Harim, Deep Learning Research Engineer working at ![Intel](https://img.shields.io/badge/-Intel-0071C5?style=plastic&logo=intel&logoColor=white)
 
 ### :bulb: Current Interests
 - Computer Vision
