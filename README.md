@@ -1,23 +1,28 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharimkang)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/harimkang?label=Follow)
 
-:wave: Hello My name is Harim, I am a developer working at ![Intel](https://img.shields.io/badge/-Intel%20Korea-0071C5?style=flat-square&logo=intel&logoColor=white)
+:wave: Hello My name is Harim, Deep Learning Research Engineer working at ![Intel](https://img.shields.io/badge/-Intel%20Korea-0071C5?style=flat-square&logo=intel&logoColor=white)
 
- My major is **mathematics:books:**, and I have been studying **computer science:computer:** since 2018. I have project experience using **Python(My most confident language)**, Java & Android, c++, and Matlab languages. I am very interested in **machine learning**. I am especially interested in computer vision.
+### :bulb: Current Interests
+- Computer Vision
+- Semi Supervised Learning for Classification, Detection, Segmentation
+- Generative Model
+- Various ideas (If you have any research or project you want to share with me, please contact me!)
 
 ### :purple_heart: Career
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2014. 3 ~ 2020. 2 | Department of Mathematics, Software | **Soongsil University** |
-| **Research activities** | 2018. 12 ~ 2019. 6 | Undergraduate Research Students | **Soongsil Univ. Software Engineering Lab** |
-| **External activities** | 2019. 6 ~ 8 | Global Start-up Challenge (Start-up in Australia) | **Soongsil University** |
+| **Research activities** | 2018. 12 ~ 2019. 6 | Undergraduate Research Students | **Soongsil Univ. SE Lab** |
+| **External activities** | 2019. 6 ~ 8 | Global Start-up Challenge (Start-up in Australia) | **EndorFin** |
 | **Research activities** | 2020. 1 ~ 7 | Team leader of Mevia, 6th Open-Lab | **Korea AI Lab** |
-| **:office:Employment** | 2020. 5 ~ 2021. 5 | QA, SW Engineer | **Intel Korea** |
+| **:office:Employment** | 2020. 5 ~ 2021. 5 | QA, SW Engineer | **Intel** |
 | **External activities** | 2020. 10 ~ 2021. 1 | Google MachineLearning BootCamp | **Google Developers** |
-| **:office:Employment** | 2021. 6 ~ | Deeplearning Engineer | **Intel Korea** |
+| **Research activities** | 2021. 1 ~ 4 | Team leader of IVADL, 8th Open-Lab | **Korea AI Lab** |
+| **:office:Employment** | 2021. 6 ~ | Deeplearning Engineer | **Intel** |
 
 ### :cyclone: Languages
-![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white) ![ANDROID](https://img.shields.io/badge/JAVA%20&%20ANDROID-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=android&logoColor=white)  ![Matlab](https://img.shields.io/badge/Matlab-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0076A8?style=plastic&logo=mathworks&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=kotlin&logoColor=white)
+![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white) ![ANDROID](https://img.shields.io/badge/JAVA%20&%20ANDROID-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=android&logoColor=white)
 
 [![Tensorflow Developer Certificate](https://img.shields.io/badge/Tensorflow%20Developer%20Certificate-FF6F00?logo=tensorflow&logoColor=white)](https://www.credential.net/28bacf68-2290-412e-a7cb-8b12ce4204de)
 
