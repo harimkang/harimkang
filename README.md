@@ -9,7 +9,7 @@
 - Generative Model
 - Various ideas (If you have any research or project you want to share with me, please contact me!)
 
-### :purple_heart: Career
+### :purple_heart: About Me
 
 | **Type** | **Date** | **Contents** | **Org.** |
 |:--------:|:--------:|:--------:|:--------:|
