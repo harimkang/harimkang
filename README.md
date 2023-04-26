@@ -11,8 +11,8 @@
 ### :purple_heart: About Me
 
 SW Engineer (Contract workers dispatched to Intel) (2020.5~)
-- [Dev] Microservices (API) Integration & E2E test validation of Intel Product
-- [Dev] Contributor of Intel Open-source (Datumaro)
+- [Dev] Microservices (API) Integration & E2E test validation of Intel Product: QA Validation
+- [Dev] Contributor of Intel Open-source ([Datumaro](https://github.com/openvinotoolkit/datumaro)): Implement a sampler that performs sampling to consider the balance of the class
 
 AI R&D Engineer at Intel (2021.6~)
 - [Research] Semi-SL for multi-class classification
