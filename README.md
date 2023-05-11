@@ -10,15 +10,20 @@
 
 ### :purple_heart: About Me
 
-SW Engineer (Contract workers dispatched to Intel) (2020.5~)
-- [Dev] Microservices (API) Integration & E2E test validation of Intel Product: QA Validation
-- [Dev] Contributor of Intel Open-source ([Datumaro](https://github.com/openvinotoolkit/datumaro)): Implement a sampler that performs sampling to consider the balance of the class
-
 AI R&D Engineer at Intel (2021.6~)
 - [Research] Semi-SL for multi-class classification
 - [Research] Class-Incremental Learning for Detection & Instance Segmentation
 - [Dev] Developer of [Model-Preparation-Algorithm](https://github.com/openvinotoolkit/model_preparation_algorithm)
 - [Dev] Developer of [OpenVINO Training Extension (OTX)](https://github.com/openvinotoolkit/training_extensions)
+    - Responsible for the Semi-SL Classification algorithm - [Link](https://openvinotoolkit.github.io/training_extensions/stable/guide/explanation/algorithms/classification/multi_class_classification.html#semi-supervised-learning)
+    - OTX CLI (Configuration Design & Workspace)
+    - Public Backbone Support
+- [Dev] Contributor of [Geti](https://geti.intel.com/) and [Geti-sdk](https://github.com/openvinotoolkit/geti-sdk)
+
+SW Engineer (Contract workers dispatched to Intel) (2020.5~)
+- [Dev] Microservices (API) Integration & E2E test validation of Intel Product: QA Validation
+- [Dev] Contributor of [Datumaro](https://github.com/openvinotoolkit/datumaro)
+    - Implement a sampler that performs sampling to consider the balance of the class
 
 ![Contribution stats](https://github-contributor-stats.vercel.app/api?username=harimkang&theme=dracula)
 
