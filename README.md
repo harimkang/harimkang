@@ -16,7 +16,7 @@ AI R&D Engineer at Intel (2021.6~)
 - [Dev] Developer of [Model-Preparation-Algorithm](https://github.com/openvinotoolkit/model_preparation_algorithm)
 - [Dev] Developer of [OpenVINO Training Extension (OTX)](https://github.com/openvinotoolkit/training_extensions)
     - Responsible for the Semi-SL Classification algorithm - [Link](https://openvinotoolkit.github.io/training_extensions/stable/guide/explanation/algorithms/classification/multi_class_classification.html#semi-supervised-learning)
-    - OTX CLI (Configuration Design & Workspace)
+    - OTX CLI (Overall Design & Implementation)
     - Public Backbone Support
 - [Dev] Contributor of [Geti](https://geti.intel.com/) and [Geti-sdk](https://github.com/openvinotoolkit/geti-sdk)
 
