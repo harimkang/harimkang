@@ -18,6 +18,7 @@ AI R&D Engineer at Intel (2021.6~)
     - Responsible for the Semi-SL Classification algorithm - [Link](https://openvinotoolkit.github.io/training_extensions/stable/guide/explanation/algorithms/classification/multi_class_classification.html#semi-supervised-learning)
     - OTX v1.0 CLI (Overall Design & Implementation)
     - OTX v2.0 API/CLI Design
+    - OTX v2.0 development group leader
 - [Dev] Contribution
     - [Geti](https://geti.intel.com/)
     - [Geti-sdk](https://github.com/openvinotoolkit/geti-sdk)
