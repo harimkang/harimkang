@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharimkang)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/harimkang?label=Follow)
 
-:wave: Hi all, I'm Harim, AI R&D Engineer working at ![Intel](https://img.shields.io/badge/-Intel-0071C5?style=plastic&logo=intel&logoColor=white)
+:wave: Hi all, I'm Harim, AI R&D Engineer
 
 ### :bulb: Current Interests
 - Computer Vision, Semi-SL, Multi-Modal, Generative Model
@@ -10,7 +10,7 @@
 
 ### :purple_heart: About Me
 
-AI R&D Engineer at Intel (2021.6~)
+AI R&D Engineer at ![Intel](https://img.shields.io/badge/-Intel-0071C5?style=plastic&logo=intel&logoColor=white) (2021.6~2024.11)
 - [Research] Semi-SL for multi-class classification
 - [Research] Class-Incremental Learning for Detection & Instance Segmentation
 - [Dev] Developer of [Model-Preparation-Algorithm](https://github.com/openvinotoolkit/model_preparation_algorithm)
