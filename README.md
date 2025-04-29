@@ -3,10 +3,14 @@
 :wave: Hi all, I'm Harim, AI R&D Engineer
 
 ### :bulb: Current Interests
-- Computer Vision, Semi-SL, Multi-Modal, Generative Model
+- Computer Vision, Semi-SL, Multi-Modal, Generative Model, Agent
 - A new application using an existing model or task
 - DevOps/MLOps
 - Various ideas (Multiple projects that benefit the common good)
+
+### ✨Recent Projects
+- [Model Context Protocol (MCP) server that provides tools for accessing the Korea Tourism API](https://github.com/harimkang/mcp-korea-tourism-api)
+- TripFlow (WIP): Travel itinerary management service (with agents that plan trips based on personalized information)
 
 ### :purple_heart: About Me
 
@@ -24,7 +28,7 @@ AI R&D Engineer at ![Intel](https://img.shields.io/badge/-Intel-0071C5?style=pla
     - [Geti-sdk](https://github.com/openvinotoolkit/geti-sdk)
     - [Anomalib](https://github.com/openvinotoolkit/anomalib)
 
-SW Engineer (Contract workers dispatched to Intel) (2020.5~)
+SW Engineer (Contract workers dispatched to Intel) (2020.5~2021.5)
 - [Dev] Microservices (API) Integration & E2E test validation of Intel Product: QA Validation
 - [Dev] Contributor of [Datumaro](https://github.com/openvinotoolkit/datumaro)
     - Implement a sampler that performs sampling to consider the balance of the class
