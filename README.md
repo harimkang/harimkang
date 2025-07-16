@@ -9,8 +9,10 @@
 - Various ideas (Multiple projects that benefit the common good)
 
 ### ✨Recent Projects
-- [Model Context Protocol (MCP) server that provides tools for accessing the Korea Tourism API](https://github.com/harimkang/mcp-korea-tourism-api)
-- TripFlow (WIP): Travel itinerary management service (with agents that plan trips based on personalized information)
+- TripFlow (WIP, 2025): Travel itinerary management service (with agents that plan trips based on personalized information)
+   - Landing Page: [https://tripflow-ai-voyage.vercel.app/](https://tripflow-ai-voyage.vercel.app/)
+   - [Model Context Protocol (MCP) server that provides tools for accessing the Korea Tourism API](https://github.com/harimkang/mcp-korea-tourism-api)
+   - [Model Context Protocol (MCP) server that provides tools for accessing Map API](https://github.com/harimkang/mcp-korea-maps)
 
 ### :purple_heart: About Me
 
@@ -18,15 +20,15 @@ AI R&D Engineer at ![Intel](https://img.shields.io/badge/-Intel-0071C5?style=pla
 - [Research] Semi-SL for multi-class classification
 - [Research] Class-Incremental Learning for Detection & Instance Segmentation
 - [Dev] Developer of [Model-Preparation-Algorithm](https://github.com/openvinotoolkit/model_preparation_algorithm)
-- [Dev] Developer of [OpenVINO Training Extension (OTX)](https://github.com/openvinotoolkit/training_extensions)
-    - Responsible for the Semi-SL Classification algorithm - [Link](https://openvinotoolkit.github.io/training_extensions/stable/guide/explanation/algorithms/classification/multi_class_classification.html#semi-supervised-learning)
+- [Dev] Developer of [OpenVINO Training Extension (OTX)](https://github.com/open-edge-platform/training_extensions)
+    - Responsible for the Semi-SL Classification algorithm - [Link](https://open-edge-platform.github.io/training_extensions/2.2.0/guide/explanation/algorithms/classification/multi_class_classification.html#semi-supervised-learning)
     - OTX v1.0 CLI (Overall Design & Implementation)
     - OTX v2.0 API/CLI Design
     - OTX v2.0 development group leader
 - [Dev] Contribution
-    - [Geti](https://geti.intel.com/)
-    - [Geti-sdk](https://github.com/openvinotoolkit/geti-sdk)
-    - [Anomalib](https://github.com/openvinotoolkit/anomalib)
+    - [Geti](https://geti.intel.com/) - [Github](https://github.com/open-edge-platform/geti)
+    - [Geti-sdk](https://github.com/open-edge-platform/geti-sdk)
+    - [Anomalib]((https://github.com/open-edge-platform/anomalib)
 
 SW Engineer (Contract workers dispatched to Intel) (2020.5~2021.5)
 - [Dev] Microservices (API) Integration & E2E test validation of Intel Product: QA Validation
